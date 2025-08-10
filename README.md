@@ -13,23 +13,23 @@ Homebrew tap for Model Context Protocol (MCP) tools maintained by me.
 
 - **One‑liner**:
 
-  ```bash
-  brew install otaviocc/mcp/obsidian-mcp-server
-  ```
+```bash
+brew install otaviocc/mcp/obsidian-mcp-server
+```
 
 - **Tap first, then install**:
 
-  ```bash
-  brew tap otaviocc/mcp
-  brew install obsidian-mcp-server
-  ```
+```bash
+brew tap otaviocc/mcp
+brew install obsidian-mcp-server
+```
 
 - **Brewfile** (`brew bundle`):
 
-  ```ruby
-  tap "otaviocc/mcp"
-  brew "obsidian-mcp-server"
-  ```
+```ruby
+tap "otaviocc/mcp"
+brew "obsidian-mcp-server"
+```
 
 ## Usage
 

@@ -1,8 +1,8 @@
 class ObsidianMcpServer < Formula
   desc "Model Context Protocol server for Obsidian vault interaction"
   homepage "https://github.com/otaviocc/ObsidianMCPServer"
-  url "https://github.com/otaviocc/ObsidianMCPServer/releases/download/0.3.0/ObsidianMCPServer-0.3.0-macos-signed.zip"
-  sha256 "0bdc655abe001eadad0e12796b103e856cd110c98177deb07e8a270c120e3a5e"
+  url "https://github.com/otaviocc/ObsidianMCPServer/releases/download/0.4.0/ObsidianMCPServer-0.4.0-macos-signed.zip"
+  sha256 "29f216fcad01d99342862b2285a38e68c604bbafaf6b4275900c62de102d3be1"
   license "MIT"
 
   def install

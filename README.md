@@ -3,7 +3,7 @@
 Homebrew tap for Model Context Protocol (MCP) tools maintained by me.
 
 - **Repository tap**: `otaviocc/mcp`
-- **Supported platform**: macOS (binary formulae)
+- **Supported platform**: macOS (built from source)
 
 ### Available formulae
 
